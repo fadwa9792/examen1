@@ -62,4 +62,7 @@ public class Contrat {
     public void setContrat(Contrat contrat) {
         this.contrat = contrat;
     }
+
+    public void add(Client byId) {
+    }
 }
